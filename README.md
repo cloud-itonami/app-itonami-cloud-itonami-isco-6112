@@ -1,4 +1,6 @@
 # cloud-itonami-isco-6112
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 6112. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 6112。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 Open Occupation Blueprint for **ISCO-08 6112**: Market Gardeners and Crop Growers.
 
